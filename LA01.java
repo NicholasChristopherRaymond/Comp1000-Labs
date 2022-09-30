@@ -36,6 +36,6 @@ public class LA01 {
         System.out.println("Sum: " + sum);
         System.out.println("Mean: " + mean);
         System.out.println("Population Standard Deviation: " + finalVar);
-        System.out.println("Thank you for running LA1a, " + name + "Goodbye.");
+        System.out.println("Thank you for running LA1a, " + name + " Goodbye.");
     }
 }
