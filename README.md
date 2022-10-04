@@ -44,3 +44,20 @@ program:
 1) Y=mx+b
 2) 𝑚 = (𝑦2−𝑦1)/(𝑥2−𝑥1)
 3) 𝐴 = 4 𝜋 𝑟2
+
+PA02:
+
+Write a program that solves a quadratic equation of the form:
+Specifically, the user will input the values of a, b, and c in meters (m). Your program must then calculate
+and output the roots of the equation.
+
+PA03-A:
+
+Write a program to evaluate the area of a triangle given the lengths of its sides using Heron's Formula.
+
+PA03-B:
+
+Write an astrology program. The user will give their birthday as a month number (1 – 12) and then a day
+number (1 – 31). Your program will then output the person's astrological sign on one line, and then a
+horoscope for the user on the next. You may make up whatever horoscope you want for each different
+sign.
